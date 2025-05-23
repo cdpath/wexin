@@ -85,7 +85,7 @@
             if (window.location.hostname === 'weixin110.qq.com') {
                 handleRedirect();
             }
-        }, 500);
+        }, 100);
     }
 })();
 
